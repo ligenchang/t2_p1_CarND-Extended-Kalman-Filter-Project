@@ -10,9 +10,10 @@ The input data is mixed with lidar and radar data. For lidar data, it will be ea
 # How to compile
 
 From the root of the repo:
-mkdir build && cd build
-cmake .. && make
-./ExtendedKF
+
+* mkdir build && cd build
+* cmake .. && make
+* ./ExtendedKF
 
 # Accuracy
 
